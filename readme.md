@@ -1,4 +1,5 @@
 # CmTrans
+更好的文档请见[https://darthjesusyan.github.io/-cmtrans/](https://darthjesusyan.github.io/-cmtrans/)
 ## 代码注释翻译工具
 **cmtrans能够自动将输入的文件中的注释部分翻译而不会影响代码。**    
 ------
