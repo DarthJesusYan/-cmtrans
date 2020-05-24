@@ -1,0 +1,10 @@
+<cfg>
+    <from>en</from>
+    <to>zh-CN</to>
+    <file>.cpp|.hpp</file>
+    <bc-start>/*</bc-start>
+    <bc-body>*</bc-body>
+    <bc-end>*/</bc-end>
+    <lc>//</lc>
+    <cc>//</cc>
+</cfg>
